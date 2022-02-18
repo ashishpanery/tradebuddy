@@ -1,0 +1,220 @@
+.upcomingEventCard-container{
+width: 100%;
+}
+.upcomingEventCard{
+    width: 100%;
+    cursor: pointer;
+
+}
+.upComingEventCardTop{
+    position: relative;
+}
+.event_disabled{
+    opacity: .3;
+}
+
+.upComingEventCardTop>img:first-child{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px 20px 0 0 ;
+}
+.upcomingEventProfilePic{
+position: absolute;
+/* left:calc(10vw - 5em); */
+left:32.5%;
+transform: translateX(-32.5%);
+bottom:-50px;
+z-index: 20;
+width: 10em;
+aspect-ratio: 1/1;
+border-radius: 50%;
+border:4px solid white;
+}
+
+
+.upComingEventContainer{
+    position: relative;
+    z-index: 5;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    /* display: flex; */
+    padding: 0 10px;
+    /* top:-15px; */
+}
+.upcomingEventCard_custom_w{
+    /* width:50% !important; */
+    padding-top:1em !important;
+}
+
+.upComingEventContainerLeftTop>img{
+    position: relative;
+    left:0 !important;
+    top:-4.5em !important;
+    margin: auto;
+    width: 130px !important;
+    height: 130px !important;
+}
+.upcomingEventCard_custom_w{
+    width:100% !important;
+    text-align: center !important;
+    margin-inline:auto;
+}
+
+.upComingEventContainerRightEventName h1{
+    width: 100% !important;
+}
+
+.upComingEventContainerLeft{
+    width: 40%;
+}
+.upComingEventContainerLeftTop{
+    height: 40%;
+    width: 100%;
+    position: relative;
+}
+.upComingEventContainerLeftTop>img{
+    width:100%;
+    max-width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    position: absolute;
+    top: -115%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    border: 4px solid #FFFFFF;
+}
+.upComingEventContainerLeftBottom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.upComingEventContainerName{
+    background: linear-gradient(180deg, #2EAFB4 0%, #278589 100%);
+    border-radius: 12px;
+    width: 100%;
+}
+.upComingEventContainerName>h1{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 37px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.upComingEventContainerCompany{
+    margin-top: -5px;
+}
+.upComingEventContainerDesignation>p{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+.upComingEventContainerCompany>p{
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+}
+.upComingEventContainerRight{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.25em;
+}
+.upComingEventContainerRightEventName{
+    width: 100%;
+    margin: 10px 0;
+}
+.upComingEventContainerRightEventName>h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.upComingEventContainerRightDetails{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+.upComingEventContainerRightDetailsList{
+    display: flex; 
+    justify-content: start;
+    width: 100%;
+}
+.upComingEvetContainerRightDetailsContainer{
+    width:auto;
+}
+
+.upComingEventContainerRightDetailsListCenter{
+    width: 3em;
+margin-right:0; 
+}
+.upComingEventContainerRightDetailsListRight{
+    margin-left:0;
+}
+.eventTimingHeaders{
+    width:7em;
+    text-align: start;
+}
+.upComingEventContainerRightDetailsListRight>*{
+    margin-bottom: 5px;
+}
+.upComingEventContainerRightDetailsListCenter>p,.upComingEventContainerRightDetailsListLeft>p,.upComingEventContainerRightDetailsListRight>p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: #000000;
+    
+}
+
+.upComingEventContainerLeftBottom>button{
+    background: linear-gradient(180deg, #2EAFB4 0%, #278589 100%);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 37px;
+    color: #FFFFFF;
+    text-align: center;
+    border: none;
+    outline:none;
+    width: 200px;
+    margin: 4px 0;
+}
+
+@media screen and (min-width:992px) and (max-width:1200px) {
+.upcomingEventCard_custom_w{
+    width: 100% !important;
+    }
+    .upComingEventContainerLeftBottom>button{
+    width: 170px;
+    }
+}
+
+@media screen and (min-width:991px) {
+    .upComingEventCardTop>img:first-child{
+        height: 150px;
+        object-fit: cover;
+    }
+    .eventContainer{
+        max-width: 648px !important;
+    }
+}
+@media screen and (max-width:991px) {
+        .upcomingEventProfilePic{
+            left:10% !important;
+            transform: translateX(-10%) !important;
+        }
+        
+    }
+@media screen and (max-width:767px) {
+    .upcomingEventProfilePic{
+        left:50% !important;
+        transform: translateX(-50%) !important;
+    }
+}

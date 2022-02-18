@@ -1,0 +1,66 @@
+.my_Courses{
+    margin: 0 auto;
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+.my_CoursesContainer{
+    display: flex;
+    margin: 80px auto;
+    border-radius: 12px;
+    width:100%;
+
+}
+.my_courses_container{
+    margin-block:7em;
+}
+
+
+/*  */
+.my_courses_page{
+    width:100%;
+}
+
+.my_courses_page_container{
+    width:100%;
+    margin: 20px 0;
+    display: flex;
+}
+
+.my_courses_component{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    width:90%;
+    max-width: 100%;
+    min-width: 480px;
+}
+.my_courses_navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:2em 0;
+    border-bottom: 0.2px solid #dfdada;
+}
+.my_courses_navbar>button{
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    height: 100%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-right: 32px;
+    color:black;
+
+}
+.activeButton{
+    color: #2EAFB4 !important;
+    border-bottom: 2px solid #2EAFB4 !important;
+}

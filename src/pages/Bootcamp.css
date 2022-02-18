@@ -1,0 +1,161 @@
+.line-height-1{
+    line-height:2em;
+}
+.view_bootcamps_btn{
+    width: fit-content !important;
+}
+@media screen and (max-width:600px) {
+    .landingPageTopContainer{
+        min-height:100em !important;
+    }
+    .bootcamp_group_img{
+        transform: scale(.7) translateX(-5em);
+    }
+}
+@media screen and (max-width:991px) {
+    
+    .landingPageTopContainer{
+        min-height: 90em !important;
+    }
+    
+}
+.bootcamp_group_img img{
+    border-radius: 50%;
+    border:.5em solid white;
+    outline:1em solid #2eb0b436;
+}
+.face1, .face2, .face3, .face4{
+    aspect-ratio: 1/1;
+}
+.face1{
+    width: 12em;
+    left:0;
+    z-index: 2;
+}
+.face2{
+    width: 18em;
+    left:0;
+    top:10em;
+    z-index: 5;
+}
+.face3{
+    width: 19em;
+    left:35%;
+    z-index: 4;
+    top:16em;
+}
+.face4{
+    width: 28em;
+    left:20%;
+    z-index: 3;
+    top:-4em;
+    /* bottom:0%; */
+}
+.features_img img{
+    height:12em;
+    width: 100%;
+    max-width: 15em;
+    /* aspect-ratio: 1/1; */
+}
+.features_img_mid{
+    border-inline:1px solid rgba(207, 204, 204, 0.541);
+
+}
+.bootcamp_cards{
+    color:white !important;
+}
+
+.bootcamp_cards{
+    border-radius: .5em !important;
+}
+.bootcamp_cards_img img, .career_timeline_img img{
+    min-height:5em;
+    max-height: 5em;
+    height: 100%;
+}
+.bootcamp_cards_header{
+    border-radius: .5em .5em 0 0 ;
+}
+
+.bootcamp_cards_body{
+    border-radius: 0 0 .5em .5em;
+}
+.card_ribbon img{
+    position: absolute;
+    left:-1.5em;
+    top:.75em;
+    width: 12em;
+}
+.card_ribbon h5{
+    position: absolute;
+    left: 0;
+    top:1.5em;
+}
+.features_grid img{
+    height:8em !important;
+    max-width: 15em !important;
+}
+
+.inline_border{
+    border-left:1px solid #CED4DA !important;;
+    border-right:1px solid #CED4DA !important;;
+}
+
+
+/* timeline style */
+.css-1lcdd13-TitleWrapper{
+    position: absolute !important;
+    bottom:3.5em;
+    left:5em;
+    /* color:white; */
+}
+.css-2r49h6-TimelineMainWrapper.horizontal{
+    
+    margin-left:5em !important ;
+}
+/* background  */
+.css-14uf6p-TimelineItemContentWrapper,.css-kbhk7b-TriangleIconWrapper{
+    background: var(--mentor_theme) !important;
+}
+/* font color */
+.css-u0xttt-TimelineContentSubTitle{
+    color:white;
+    padding-top:1em;
+    font-size: 1rem !important;
+}
+.css-u0xttt-TimelineContentSubTitle{
+    width: 100% !important;
+    text-align: center !important;
+}
+.css-2r49h6-TimelineMainWrapper{
+    overflow-x: auto !important;
+}
+.css-1f02b8t-TitleWrapper.active{
+    color: var(--mentor_theme) !important;
+}
+.css-r8amgh-Circle:not(.using-icon).active::after{
+    background: var(--mentor_theme) !important;
+
+}
+.css-mpnodf-TimelineTitleWrapper{
+    width: auto !important;
+}
+.css-jixtjo-VerticalItemWrapper{
+    justify-content: center ;
+}
+
+@media screen and (max-width:991px) {
+    
+.features_img_mid{
+    border:none;
+}
+}
+@media screen and (max-width:500px) {
+    .block_end_border{
+        border-bottom:1px solid #CED4DA !important;;
+    }
+    .inline_border{
+        border-left:1px solid transparent !important;;
+        border-right:1px solid transparent !important;;
+    }
+}

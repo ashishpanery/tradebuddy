@@ -1,0 +1,24 @@
+.dropdown_active{
+    background-color: #2EAFB4 !important;;
+    color:#fff !important;
+}
+.dropdown_item{
+    width:100%;
+    margin:0;
+    padding:.3em .9em;
+    text-align: left;
+    border:none;
+    background: #b3bbbb;;
+}
+
+.dropdown_item:hover{
+    background-color: rgba(46, 175, 180,.4) !important;
+} 
+.session_button{
+    background: var(--mentor_theme) !important;
+    padding:10px !important;
+    margin:0 !important;
+}
+.sessionContainer{
+    /* min-height:60vh; */
+}

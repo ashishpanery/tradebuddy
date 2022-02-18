@@ -1,0 +1,6 @@
+.premium-para{
+    font:var(--theme-font) !important;
+}
+.default-list>li{
+    list-style-type: disc !important;
+}

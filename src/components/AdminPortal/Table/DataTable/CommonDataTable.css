@@ -1,0 +1,104 @@
+.admin-table-w{
+    width: 80% !important;
+}
+.invisible{
+    visibility: hidden;
+}
+.table_pagination{
+    list-style: none;
+    max-width:20em;
+    width: 100%;
+    text-align:center;
+    margin:1em auto;
+}
+.table_pagination li{
+    cursor: pointer;
+}
+.disabled{
+    pointer-events:none; 
+    opacity:0.6; 
+}
+.activePageNo{
+    color:white;
+    font-size: 1rem;
+    background: rgb(30, 211, 211);
+    /* border-radius:50%; */
+    padding:0 1em;
+    transition:all 100ms;
+}
+.table_search{
+    /* text-align: right; */
+    margin:1em auto;
+}
+#table_search_options{
+    width:100%;
+    max-width: 15em;
+}
+.cursosr-not-allowed{
+    cursor: not-allowed;
+}
+.download_btn{
+    background:#57B657 !important;
+    width: 11em !important;
+}
+.btn-outline-success{
+    background:#57B657 !important;
+    color:#fff !important;
+}
+.btn-outline-danger{
+    background:#FF4747 !important;
+    color:#fff !important;
+}
+.btn-outline-dark{
+    background:#282f3a !important;
+    color:#fff !important;
+}
+.btn-outline-info{
+    background:#174ca3 !important;
+    color:#fff !important;
+}
+.btn-outline-warning{
+    background:#ffc107 !important;
+    color:#fff !important;
+}
+.btn-outline-success:hover,.btn-outline-info:hover,.btn-outline-warning:hover ,.btn-outline-danger:hover,.btn-outline-dark:hover{
+    background: #fff !important;
+}
+.btn-outline-success:hover{
+    border:1px solid #57B657 !important;
+    color:#57B657 !important;
+    
+}
+.btn-outline-danger:hover{
+    border:1px solid #FF4747 !important;
+    color:#FF4747 !important;
+}
+.btn-outline-dark:hover{
+    border:1px solid #282f3a !important;
+    color:#282f3a !important;
+}
+.btn-outline-info:hover{
+    border:1px solid #174ca3 !important;
+    color:#174ca3 !important;
+
+}
+.btn-outline-warning:hover{
+    border:1px solid #ffc107 !important;
+    color:#ffc107 !important;
+
+}
+.white_input_background:active,.white_input_background:active:focus{
+    background: white !important;
+    color:rgb(63, 62, 62) !important;
+}
+.horizontal-menu .bottom-navbar{
+    box-shadow: 0 4px 12px rgba(0,0,0,.1) !important;
+
+}
+@media screen and (max-width:600px) {
+    #table_search_options{
+        max-width: 30em !important;
+        margin-bottom:.25em;
+    }
+    
+}

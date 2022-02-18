@@ -1,0 +1,115 @@
+.mentorGetStartedCard{
+    margin-top: 5em !important;
+    background: #E7FDFD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding: 1em 1.5em !important;
+    /* margin-right: 20px; */
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    border-radius: 12px;
+    /* margin-inline:10px; */
+    min-height: 17em !important;
+    width: 215px;
+}
+
+@media screen and (max-width:991px){
+    .mentorGetStartedCard{
+    margin-top:10em;
+}
+}
+@media screen and (max-width:500px){
+    .mentorGetStartedCard{
+    margin-top:7em;
+}
+}
+.mentorImage{
+    position: relative;
+    height: 30%;
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+}
+.mentorImage>img{
+    width: 120px;
+    aspect-ratio: 1/1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50%;
+    border-radius: 50%;
+}
+.cardDetails{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -18px;
+}
+.cardDetails>h3{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #151515;
+}
+.cardDetails>h4{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #151515;
+margin: 4px 0;
+}
+.cardDetailsCompany{
+    font-size: 14px !important;
+
+}
+.cardDetails2>p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+color: #828282;
+margin: 6px 0;
+}
+.details{
+    /* border: 1px solid black; */
+    /* height: 60%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.callButton{
+    position: absolute;
+    border: 1px solid black;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10%;
+    height: 50px;
+    width: 50px;
+    aspect-ratio: 1/1;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    background: #2EAFB4;
+}
+.callButton>svg{
+    color: white;
+    width: 30px;
+    height: 30px;
+}
+/*  */
+.mentorCardImage{
+    left:50%;
+    transform: translateX(-50%);
+    top:-10%;
+}

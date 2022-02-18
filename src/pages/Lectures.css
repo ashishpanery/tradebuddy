@@ -1,0 +1,32 @@
+.custom-w{
+    width: 100%;
+    max-width: 8em;
+}
+.accordion-item{
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12) !important;
+}
+.accordion_lecture{
+    background-color: var(--mentor_theme) !important;
+}
+@media screen and (max-width:991px) {
+   
+    .accordion_lecture.collapsed>.text-primary,.accordion_lecture>.text-primary{
+        font-size: 1.25rem !important;
+
+    }
+    .event_schedule span{
+        font-size: 1rem !important;
+    }
+}
+@media screen and (max-width:500px) {
+    .accordion_lecture>*{
+        font-size: 1.25rem !important;
+    } 
+    .accordion_lecture.collapsed>.text-primary,.accordion_lecture>.text-primary{
+        font-size: 1rem !important;
+
+    }
+    .event_schedule span{
+        font-size: 1rem !important;
+    }
+} 

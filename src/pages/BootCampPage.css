@@ -1,0 +1,31 @@
+.bootcampPage_img img{
+    width: 100%;
+    max-width: 900px;
+    max-height: 300px;
+}
+.fsa_image img{
+    max-width: 300px;
+}
+.deal_card_height{
+    min-height:30em;
+}
+.slider_arrows_left_img{
+    position: absolute;
+    left:-4em;
+}
+.slider_arrows_right_img{
+    position: absolute;
+    left:0em;
+}
+.prequisites li{
+    list-style: disc !important;
+}
+.prequisites{
+    width:80%;
+
+}
+@media screen and (max-width:991px){
+    .prequisites{
+    width:100%;
+}
+}

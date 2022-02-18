@@ -1,0 +1,145 @@
+.personalProfileContainer{
+    margin-top:7em !important;
+    min-height:300px;
+}
+.container-80{
+    width: 80%;
+    margin:auto auto;
+}
+.personalProfilePictureTab{
+        width: 100%;
+        height:100%;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.personalDetailsTab{
+    width: 100%;
+    height:100%;
+    padding:30px 40px 5px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.personalDetails_cover_img{
+    position: absolute;
+    top:0;
+    left:-2px;
+right:0;
+}
+.personalDetails_cover_img>img{
+    height:500px;
+}
+.new_menteeProfileTabPencil{
+    width: 25px !important;
+    height: 25px !important;
+    cursor: pointer;
+}
+.menteeProfile{
+    position: relative;
+    margin: 0 auto;
+}
+.menteeProfileTop{
+    height: 250px;
+}
+.menteeProfileTop>img{
+    width: 100%;
+    height: 100%;
+}
+.menteeProfileContainer{
+    width: 100%; 
+    
+}
+.menteeProfileLeft{
+    min-width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.new_menteeProfileImage{
+    top: 0 !important;
+}
+.new_menteeProfileTab{
+    height: 100%;
+    background:#DFF4FF !important;
+    box-shadow: none !important;
+    border:none !important;
+}
+.upload_profile_pic{
+    background: #006DAB !important;
+    font-size: .8rem !important;
+    padding:1em 2em  !important;  
+}
+button.upload_profile_pic{
+    font-size: .8rem !important;
+
+}
+button.upload_profile_pic:hover{
+    color: #006DAB !important;
+    border:1px solid #006DAB !important;
+    background: #fff !important;
+}
+.rounded_border{
+    border-radius:1em;
+}
+.custom_box_shadow{
+    box-shadow: 0 0 12px rgba(0,0,0,.12);;
+}
+.mentee_profile_button{
+    display: flex;
+    flex-direction: column;
+    padding:.75em 1.1em;
+    background: linear-gradient(180deg, #007CC2 0%, #01517E 100%);
+border-radius: 20px;
+color:#fff;
+
+}
+.text_black h4, .text_black h3, .text_black h5{
+    color:black !important;
+}
+
+.react_select_companyList__control{
+    background: var(--form_field_bg) !important;
+    border:none !important;
+}
+.react_select_companyList__menu{
+    background: var(--form_field_bg) !important;
+    
+}
+.rating_progress_bar_outer{
+    width: 5em;
+    height: .6em;
+    background: rgb(233, 230, 230);
+    border-radius: .25em;
+    position: relative;
+}
+.rating_progress_bar_inner{
+    background: green;
+    height: 100%;
+    position: absolute;
+    top:0;
+    border-radius: .25em;
+}
+.rating_star_on,.rating_star_off{
+    width: 20px;
+    height: 20px;
+}
+
+@media screen and (max-width:991px) {
+    .mentee_profile_picture{
+    height:25em;
+    }
+    .new_menteeProfileImage{
+        left: 35% !important;
+    }
+.personalProfilePictureTab{
+    padding:0 !important;
+}
+    
+}
+@media screen and (max-width:500px) {
+    .new_menteeProfileImage{
+        left:25% !important;
+    }
+}

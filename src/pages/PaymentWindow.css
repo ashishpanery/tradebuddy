@@ -1,0 +1,42 @@
+.paymentWindow{
+    width: 100%;
+    height: 100vh;
+}
+.paymentWindowHeader{
+    height: 13%;
+}
+.paymentWindowContainer{
+    border: 1px solid black;
+    height: 87%;
+    display: flex;
+}
+.paymentWindowLeft{
+    border: 1px solid red;
+    height: 100%;
+    width: 60%;    
+}
+.paymentWindowRight{
+    width: 40%;
+    height: 100%;
+}
+.paymentWindowRightBoxTop{
+    background: #E7FDFD;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.paymentWindowRightBoxTop>h3{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    color: #151515;
+    text-transform: uppercase;
+}
+.paymentWindowRightBoxTop>h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    color: #2EAFB4;
+}

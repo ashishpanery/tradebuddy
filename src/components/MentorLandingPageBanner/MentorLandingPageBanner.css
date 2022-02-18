@@ -1,0 +1,91 @@
+.mentorLandingPageBanner{
+    display: flex;
+    margin-bottom: 100px;
+    margin: 0 auto;
+}
+.mentorLandingPageBannerLeft{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+.mentorLandingPageBannerLeftContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+
+}
+.mentorLandingPageBannerLeftHeading>h1{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 56px;
+/*text-transform: uppercase;*/
+color: #2eafb4;
+letter-spacing: -2px;
+}
+
+.mentorLandingPageBannerButton>button{
+padding: 10px 20px;
+border: none;
+font-size: 18px;
+color: #FFFFFF;
+font-weight: 500;
+background: #EEB211;
+border-radius: 8px;
+cursor: pointer;
+}
+.mentorLandingPageBannerLeftHeading>h1>span{
+    color: #EEB211;
+}
+.mentorLandingPageBannerLeftPara{
+    width: 100%;
+}
+.mentorLandingPageBannerLeftPara>p{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    color: #000000b8;
+    line-height: 1.3em;
+}
+
+.mentorLandingPageBannerRight>img{
+    width: calc(80vw - 1em);
+    max-width: 600px;
+    min-width: 200px;
+    object-fit: contain;
+}
+.mentorLandingPageBannerRightButtons>img{
+    /* width: calc(80vw - 1em); */
+    width: 100%;
+    max-width: 200px;
+    min-width: 150px;
+    object-fit: contain;
+    cursor: pointer;
+    border-radius: .25em;
+}
+@media screen and (max-width:991px){
+    .mentorLandingPageBannerLeftHeading>h1{
+        font-size: 54px;
+    }
+    .mentorLandingPageBannerLeftPara{
+        margin-block:1em;
+    }
+    }
+    @media screen and (max-width:500px){
+.mentorLandingPageBannerRight{
+    margin-block-start: 2em !important;
+    padding-inline:0 !important;
+    margin-inline:0 !important;
+    }
+    .mentorLandingPageBannerRightButtons{
+        margin-top:2em;
+
+    }
+    
+    .mentorLandingPageBannerRightButtons>img{
+        margin-left:0;
+        width: 50px !important;
+    }
+}

@@ -1,0 +1,170 @@
+.menteeProfileTab{
+    position: relative;
+    /* z-index: 3;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center; */
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    /* height: 240px; */
+    /* width: 100%; */
+    padding:100px 20px 20px 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.uploadImg{
+    position: absolute;
+    top:0%;
+    left:-5%;
+}
+.img_small{
+    width: 130px !important;
+    height: 130px !important;
+}
+
+.menteeProfileImage{
+    position: absolute;
+    /* top: -50%; */
+    left: 11%;
+}
+.profilePicUploadIcon{
+    bottom:10em !important;
+}
+@media screen and (max-width:991px) {
+    .menteeProfileTab{
+    padding: 80px 20px 20px 20px;
+
+    }
+    .menteeProfileImage{
+        left:10% !important;
+        width: 100% !important;
+        top:15% !important;
+    }
+    .menteeProfileImage>img{
+        width: 170px !important;
+        height: 170px !important;
+    }
+}
+@media screen and (max-width:500px) {
+    .menteeProfileImage{
+        left:30%;
+        top:-25%;
+        
+    }
+    .menteeProfileImage>img{
+        width: 120px !important;
+        height: 120px !important;
+    }
+}
+
+.menteeProfileImage>img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #FFFFFF;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.4);
+}
+.menteeProfileTabDetailsInfo>h2{
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+.menteeProfileTabDetailsInfo>h3{
+    font-weight: 600;
+    font-size: 20px;
+    color: #2EAFB4;
+}
+.menteeProfileTabPencil{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 37px;
+    right: 78px;
+    cursor: pointer;
+}
+.profilePhotoUpload{
+    background-color: rgba(211, 211, 211, 0.2);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 5;
+    border-radius: 50%;
+    top: 0;
+    display: grid;
+    place-items: center;
+    border:1px solid red;
+}
+.menteeProfileTabDetails{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding-left:5em;
+    padding-right:5em;
+}
+@media screen and (max-width:500px) {
+    .menteeProfileTabDetails{
+        flex-direction: column;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    
+}
+.menteeProfileTabCompanyAndPlace{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+.menteeProfileTabDetailsInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+    margin-left: 30px;
+
+}
+.companyLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+}
+@media screen and (min-width:992px) {
+    .companyLogo, .placeLogo{
+        justify-content: flex-end !important; 
+    }
+    
+}
+.companyLogo>img{
+    width: 34px;
+    height: 34px;
+
+}
+.companyLogo>p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-left:15px;
+}
+.placeLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.placeLogo>img{
+    width: 34px;
+    height: 38px;
+}
+.placeLogo>p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-left:15px;
+}
+#uploaderImg{
+/* display: none; */
+position: absolute;
+top:15%;
+left:40%;
+display: none;
+}

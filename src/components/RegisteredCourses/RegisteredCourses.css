@@ -1,0 +1,18 @@
+
+.registered_courses_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:1em;
+    width:100%;
+    padding:1em;
+}
+@media screen and (max-width:1366px) {
+.registered_courses_container{
+    grid-template-columns: 1fr;
+}
+    
+}
+
+.red-border{
+    border:1px solid red;
+}

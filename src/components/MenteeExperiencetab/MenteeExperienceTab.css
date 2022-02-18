@@ -1,0 +1,71 @@
+.menteeExperiencetab{
+    /* margin-top: 20px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding:30px 40px 5px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    /* border: 1px solid black; */
+}
+.menteeExperienceTabTop{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.menteeExperienceTabTop>h3{
+    font-size: 28px;
+    font-weight: 600;
+    color: #151515;
+}
+.menteeExperienceTabTop>img{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+.menteeExperiencetabList{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 5px 0 40px;
+    margin-top: 40px;
+    border-bottom: 0.1px solid rgba(0,0,0,0.2);
+    
+}
+@media screen and (max-width:360px) {
+.menteeExperiencetabList{
+    flex-direction: column !important;
+}
+    
+}
+.menteeExperiencetabList:last-of-type{
+    border-bottom: none;
+}
+
+.menteeExperiencetabList>img:first-child{
+    width: 60px;
+    height: 60px;
+    margin-right: 40px;
+}
+.menteeExperienceTabListDetails{
+    flex: 1;
+}
+.menteeExperienceTabListDetails>h2{
+    font-size: 18px;
+    font-weight: 600;
+    color: #151515;
+    margin-bottom: 3px;
+}
+.menteeExperienceTabListDetails>p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #151515; 
+}
+.menteeExperiencetabList>img:last-child{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}

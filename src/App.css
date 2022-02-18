@@ -1,0 +1,129 @@
+
+:root{
+  --mentor_theme:#2EAFB4;
+  --theme_yellow:#FDC11F;
+  --theme_font:Montserrat;
+  --form_field_bg:#E7FDFD;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+font-family: var(--theme_font) !important;
+}
+.blue-border{
+  border:1px solid blue;
+}
+.green-border{
+  border:1px solid green;
+
+}
+.indigo-border{
+  border:1px solid indigo;
+
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.pt-default{
+  padding-top:4.5em;
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+body{
+  /* width: 100%; */
+  font-family: var(--theme_font) !important;
+  background:white !important;
+}
+
+.app{
+  width: 100%;
+}
+.theme-color{
+  color: #2EAFB4;
+}
+.bg-theme-color{
+  background: #2EAFB4;
+}
+.bg-theme{
+  background: #e7fdfd !important;
+
+  }
+.mb-6{
+  margin-bottom:4em;
+}
+
+.bg-white{
+  background:#fff !important;
+}
+.btn{
+  background:var(--mentor_theme) !important;
+  width:100% !important;
+  min-width:10em;
+  max-width: max-content;
+  color: #ffff !important;
+font-family: "DM Sans",sans-serif !important;
+text-transform: uppercase !important;
+font-size: 14px !important;
+font-weight: 700 !important;
+padding: 15px 24px !important;
+display: inline-block !important;
+border-radius: 5px !important;
+}
+button.btn{
+  z-index: 0 !important;
+  font-size:1rem !important;
+}
+button.btn:hover{
+  color:var(--mentor_theme) !important;
+  border:1px solid var(--mentor_theme) !important;
+background:#fff !important;
+}
+  
+.btn::before{
+  /* background:transparent !important; */
+  display: none;
+}
+.bg_mentor_theme{
+  background: var(--mentor_theme);
+}
+.nav_item_active{
+  border-bottom:2px solid var(--mentor_theme) !important;
+}
+.nav_sub-item_active{
+  background: var(--mentor_theme) !important;
+  color:white !important;
+}
+.admin_action_btn{
+  padding:.75em 1.75em !important;
+  width: 12em !important;
+  color:white !important;
+  font-weight: bold;
+  font-size: .9rem;
+  text-transform: uppercase;
+  border:1px solid transparent;
+  border-radius: .35em;
+
+}
+
+.accordion-button::after{
+  background-image: url("./images/down-arrow.png") !important;
+
+}
+
+.select_box_table{
+  width: 25%;
+}
+@media screen and (max-width:991px) {
+  .select_box_table{
+    width: 100%;
+  }
+}
+
+.slider_arrows{
+  z-index: 200 !important;
+}

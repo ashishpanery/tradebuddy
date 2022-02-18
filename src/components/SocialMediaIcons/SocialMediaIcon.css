@@ -1,0 +1,8 @@
+.socialMediaIcon{
+    margin-right: 5px;
+}
+.socialMediaIcon>img{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}

@@ -1,0 +1,48 @@
+.privacyPolicy{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.privacyPolicyEmptyBox{
+    height: 100px;
+}
+.privayPolicyContainer>h1{
+    margin-bottom: 30px;
+}
+.privacyPolicyBlueContainer h2,.privayPolicyContainer h2{
+    color: #000000;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+.privacyPolicyBlueContainer p,.privayPolicyContainer p{
+    color: rgb(0, 0, 0,0.6);
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.privayPolicyContainer{
+    background: #FDFEFF;
+    padding: 20px 50px;
+}
+.privacyPolicyBlueContainer{
+    background: #E7FDFD;
+    padding: 20px 50px;
+}
+.privayPolicyContainer ul,.privacyPolicyBlueContainer ul{
+    list-style-position: inside;
+    margin-bottom: 3px;
+}
+.privayPolicyContainer ul li,.privacyPolicyBlueContainer ul li{
+    color: rgba(0,0,0,0.6);
+    margin-bottom: 3px;
+}
+.privayPolicyContainer ul li::marker,.privacyPolicyBlueContainer ul li::marker{
+    color: #2EAFB4;
+}
+.privayPolicyContainer table{
+    border-collapse: collapse;
+}
+.privayPolicyContainer table td{
+    padding: 5px;
+}

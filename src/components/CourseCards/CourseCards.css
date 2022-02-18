@@ -1,0 +1,11 @@
+.card-height{
+    /* min-height: 30em !important; */
+}
+.box_course{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}

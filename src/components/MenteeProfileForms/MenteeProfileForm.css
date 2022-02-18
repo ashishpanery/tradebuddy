@@ -1,0 +1,127 @@
+.menteeProfileFormBackground{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.2);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    z-index:3000;
+    display: grid;
+    place-items: center;
+}
+.menteeProfileForm{
+    position: relative;
+    background-color: #FFFFFF;
+    max-width: 50% !important;
+    max-height: 90% !important;
+    padding: 20px;
+    /* margin-top:5em; */
+    overflow-y: auto;
+}
+@media screen and (max-width:991px) {
+.menteeProfileForm{
+    max-width: 90% !important;
+}
+    
+}
+
+.menteeProfileForm>h1{
+    color: #151515;
+    font-size: 2rem !important;
+    font-weight: 600;
+    margin-bottom: 5px;
+
+}
+.menteeProfileFormRow{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.menteeProfileFormRow>*{
+    margin-right: 20px;
+}
+.menteeProfileFormInput{
+    width: 100%;
+}
+.menteeProfileFormInput>p,.menteeProfileFormButton>p{
+    color: #4F4F4F;
+    font-size: 16px;
+    font-weight: 500;
+}
+.menteeProfileFormInput>input,.menteeProfileFormInput>textarea{
+    width: 100%;
+    background: #E7FDFD;
+    border-radius: 4px; 
+    height: 40px;
+    border: none;
+    outline: none;
+    padding: 5px;
+    font-size: 16px;
+}
+.menteeProfileFormInput>textarea{
+    height: auto !important;
+}
+.menteeProfileForm>button{
+    margin: 20px 0;
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    background: #2EAFB4;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+}
+.menteeProfileFormCloseIcon{
+    color: #2EAFB4;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.menteeProfileFormButtonList{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+.menteeProfileFormButtonList>*{
+    margin-right: 10px;
+}
+.menteeProfileFormButtonRow{
+    display: flex;
+    align-items: center;
+}
+.menteeProfileFormButtonRow>label{
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 3px;
+}
+.menteeProfileFormButtonRow>input{
+    margin-top: 3px;
+}
+/*  */
+.menteeProfileForms input.form-control{
+    background: var(--form_field_bg) !important;
+}
+.menteeProfileForms label{
+    font-size: .9rem !important;
+    font-weight: 500;
+}
+
+
+/* select for company */
+
+.react_select_companyList__control{
+    background: var(--form_field_bg) !important;
+    border:none !important;
+    color:black;
+    font-weight: 400;
+}
+.react_select_companyList__menu{
+    background: var(--form_field_bg) !important;
+}
+
+

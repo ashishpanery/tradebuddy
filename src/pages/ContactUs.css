@@ -1,0 +1,77 @@
+.contact-us-container{
+}
+.contact-us{
+    margin: 0 auto;
+    min-height: 50em;
+
+}
+@media screen and (max-width:500px) {
+.contact-us-container{
+    flex-direction: column;
+    gap:2em;
+
+}
+}
+.contact-us-container-left{
+    /* width: 50%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contact-us-container-left>img{
+    width: 100%;
+    max-width: 25em;
+    min-width: 10em;
+    /* margin-bottom: 10px; */
+}
+.contact-us-container-left-details{
+    /* width: 70%; */
+}
+.contact-us-container-left-details>p{
+    color: #151515;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+}
+.contact-us-container-right{
+    /* width: 50%; */
+    /* display: grid;
+    place-items: center; */
+}
+.contact-us-container-right>form{
+    max-width: 600px;
+    /* box-shadow: 0 4px 4px rgba(0,0,0,0.4); */
+    padding: 30px;
+    background: #FDFEFF;
+    border-radius: 12px;
+}
+.contact-us-container-right>form>h2{
+    margin-bottom: 20px;
+    color: #151515;
+    font-style: normal;
+}
+
+.contact-us-container-right>form>button{
+    background: #2EAFB4;
+    border-radius: 12px;
+    padding: 10px;  
+    width: 100%;
+    color: #FFFFFF;
+    outline: none;
+    border: none;  
+    cursor: pointer;
+}
+input.form-control, textarea.form-control{
+    background: #e7fdfd;
+    border:1px solid transparent;
+}
+input[type="email"]:active, input[type="email"]:focus{
+    background: #2EAFB4 !important;
+    color:white;
+}
+textarea:active, textarea:focus{
+    background: #2EAFB4 !important;
+    color:white !important;
+}
+

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="556"
+   id="svg3865"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="graphic-instructor-led2.svg">
+  <defs
+     id="defs3867">
+    <linearGradient
+       id="linearGradient25906">
+      <stop
+         style="stop-color:#b3b6c1;stop-opacity:0;"
+         offset="0"
+         id="stop25908" />
+      <stop
+         id="stop25916"
+         offset="0.09272946"
+         style="stop-color:#b3b6c1;stop-opacity:1;" />
+      <stop
+         id="stop25914"
+         offset="0.81854588"
+         style="stop-color:#b3b6c1;stop-opacity:1;" />
+      <stop
+         style="stop-color:#b3b6c1;stop-opacity:0;"
+         offset="1"
+         id="stop25910" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766"
+       id="linearGradient3862"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99683547,0,0,1.0071943,-91.139207,-124.68134)"
+       x1="91.428535"
+       y1="123.79076"
+       x2="542.85712"
+       y2="918.07648" />
+    <linearGradient
+       id="linearGradient3766">
+      <stop
+         style="stop-color:#0096dc;stop-opacity:1;"
+         offset="0"
+         id="stop3768" />
+      <stop
+         style="stop-color:#07d3ff;stop-opacity:1;"
+         offset="1"
+         id="stop3770" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3766-1"
+       id="linearGradient3772"
+       x1="91.428535"
+       y1="123.79076"
+       x2="542.85712"
+       y2="918.07648"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99683547,0,0,1.0071943,-91.139207,127.68084)" />
+    <linearGradient
+       id="linearGradient3766-1">
+      <stop
+         style="stop-color:#e1e1e6;stop-opacity:1;"
+         offset="0"
+         id="stop3768-6" />
+      <stop
+         style="stop-color:#b9f3ff;stop-opacity:1;"
+         offset="1"
+         id="stop3770-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25906"
+       id="linearGradient25912"
+       x1="0"
+       y1="1051.8622"
+       x2="1000"
+       y2="1051.8622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4,0,0,3,0,-2104.7244)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="955.06792"
+     inkscape:cy="-93.07781"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata3870">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-496.36218)">
+    <g
+       id="g25918"
+       transform="translate(209.38171,0)">
+      <ellipse
+         d="m 2922.5,1449.381 c 0,29.6113 -415.067,53.616 -927.078,53.616 -512.011,0 -927.078,-24.0047 -927.078,-53.616 0,-29.6113 415.067,-53.616 927.078,-53.616 512.011,0 927.078,24.0047 927.078,53.616 z"
+         id="ellipse38449"
+         ry="53.616001"
+         rx="927.078"
+         cy="1449.381"
+         cx="1995.422"
+         sodipodi:cx="1995.422"
+         sodipodi:cy="1449.381"
+         sodipodi:rx="927.078"
+         sodipodi:ry="53.616001"
+         style="fill:#dfe0e5;fill-opacity:1"
+         transform="matrix(0.33515441,0,0,0.33515441,-82.345934,501.04668)" />
+      <g
+         transform="matrix(0.76337436,0,0,0.76337436,-288.4628,67.561639)"
+         id="g25735">
+        <polygon
+           style="fill:#cfd9e8"
+           id="polygon18214"
+           points="584.878,267.912 588.806,263.355 603.627,422.612 599.273,422.612 "
+           transform="matrix(-2.1576934,0,0,2.1576934,2287.09,304.65657)" />
+        <polygon
+           style="fill:#608890;fill-opacity:1"
+           id="polygon18216"
+           points="601.057,422.612 599.273,422.612 584.878,267.912 586.487,266.044 "
+           transform="matrix(-2.1576934,0,0,2.1576934,2287.09,304.65657)" />
+        <g
+           id="g18204"
+           style="fill:#3d418b;fill-opacity:1"
+           transform="matrix(-2.1576934,0,0,2.1576934,2287.09,304.65657)">
+          <polygon
+             points="447.24,164.052 444.576,156.675 434.511,414.493 437.466,414.493 "
+             id="polygon18206"
+             style="fill:#3d418b;fill-opacity:1" />
+          <polygon
+             points="436.252,414.493 437.466,414.493 447.24,164.052 446.149,161.029 "
+             id="polygon18208"
+             style="fill:#3d418b;fill-opacity:1" />
+        </g>
+        <polygon
+           points="478.472,294.996 434.603,294.996 440.82,135.74 484.689,135.74 "
+           id="polygon18210"
+           style="fill:#3d418b;fill-opacity:1"
+           transform="matrix(-2.1576934,0,0,2.1576934,2287.09,304.65657)" />
+        <polygon
+           transform="matrix(-2.1576934,0,0,2.1576934,2556.0033,304.65657)"
+           points="599.273,422.612 584.878,267.912 588.806,263.355 603.627,422.612 "
+           id="polygon14767"
+           style="fill:#cfd9e8" />
+        <polygon
+           transform="matrix(-2.1576934,0,0,2.1576934,2556.0033,304.65657)"
+           points="586.487,266.044 601.057,422.612 599.273,422.612 584.878,267.912 "
+           id="polygon14769"
+           style="fill:#3d418b;fill-opacity:1" />
+        <polygon
+           points="456.111,294.996 598.127,294.996 583.309,135.74 441.293,135.74 "
+           id="polygon18224"
+           style="fill:#f1f0f6"
+           transform="matrix(-2.1576934,0,0,2.1576934,2287.09,304.65657)" />
+        <g
+           transform="matrix(0.6143352,0,-0.05104508,0.6143352,1119.626,208.75042)"
+           id="layer1-7"
+           inkscape:label="Layer 1">
+          <g
+             transform="matrix(1.1999997,0,0,1.1999997,-348.85707,188.09921)"
+             id="g5446">
+            <g
+               transform="translate(-1631.338,-2414.4144)"
+               id="g4626">
+              <path
+                 transform="matrix(0.75431037,0,0,0.75431037,852.54803,1957.2053)"
+                 d="m 1749.2857,1395.2194 c 0,91.5214 -74.1928,165.7142 -165.7143,165.7142 -91.5215,0 -165.7143,-74.1928 -165.7143,-165.7142 0,-91.5215 74.1928,-165.7143 165.7143,-165.7143 91.5215,0 165.7143,74.1928 165.7143,165.7143 z"
+                 sodipodi:ry="165.71428"
+                 sodipodi:rx="165.71428"
+                 sodipodi:cy="1395.2194"
+                 sodipodi:cx="1583.5714"
+                 id="path10516-3"
+                 style="fill:#ffffff;fill-opacity:0;stroke:none"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:type="arc"
+                 style="fill:#ffffff;fill-opacity:0;stroke:none"
+                 id="path6252-1-8-5-6"
+                 sodipodi:cx="1583.5714"
+                 sodipodi:cy="1395.2194"
+                 sodipodi:rx="165.71428"
+                 sodipodi:ry="165.71428"
+                 d="m 1749.2857,1395.2194 c 0,91.5214 -74.1928,165.7142 -165.7143,165.7142 -91.5215,0 -165.7143,-74.1928 -165.7143,-165.7142 0,-91.5215 74.1928,-165.7143 165.7143,-165.7143 91.5215,0 165.7143,74.1928 165.7143,165.7143 z"
+                 transform="matrix(0.75431037,0,0,0.75431037,852.54803,1957.2053)" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path6252-2-2-1"
+                 d="m 2047.0522,2884.6337 c -69.0337,0 -124.9999,55.9663 -124.9999,125 0,69.0337 55.9662,125 124.9999,125 38.5218,0 72.96,-17.4345 95.8891,-44.8332 -21.0767,21.9672 -50.7141,35.6402 -83.5612,35.6402 -63.9602,0 -115.8305,-51.8468 -115.8305,-115.807 0,-63.9602 51.8703,-115.807 115.8305,-115.807 32.8231,0 62.4403,13.6541 83.5141,35.593 -22.9292,-27.3671 -57.346,-44.786 -95.842,-44.786 z"
+                 style="fill:#0096db;fill-opacity:1;stroke:none" />
+              <path
+                 inkscape:connector-curvature="0"
+                 style="fill:#a83da3;fill-opacity:1;stroke:none"
+                 d="m 2059.3507,2900.1563 c 60.461,0 109.4773,49.0163 109.4773,109.4774 0,60.4611 -49.0163,109.4774 -109.4773,109.4774 -33.7381,0 -63.8998,-15.2695 -83.9816,-39.2658 18.4593,19.2393 44.4164,31.2144 73.1846,31.2144 56.0175,0 101.4466,-45.4084 101.4466,-101.426 0,-56.0176 -45.4291,-101.426 -101.4466,-101.426 -28.7471,0 -54.6864,11.9585 -73.1433,31.173 20.0819,-23.9687 50.2247,-39.2244 83.9403,-39.2244 z"
+                 id="path6258-4-7-8" />
+            </g>
+            <g
+               transform="matrix(1.0476604,0,0,1.0476604,-743.38725,-1313.2288)"
+               id="g6283-5-6-9">
+              <path
+                 id="path6285-5-1-2"
+                 d="m 1141.7669,1781.8576 c -12.4916,0 -22.3377,2.6273 -29.5665,7.8449 3.8391,4.6155 6.6301,10.0986 8.4386,16.2834 0.2549,-0.2399 0.5102,-0.491 0.7814,-0.7189 4.5189,-3.7979 11.3049,-5.6882 20.3465,-5.6882 l 35.2548,0 0,-17.7212 -35.2548,0 z"
+                 style="font-size:114.44565582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83da3;fill-opacity:1;stroke:none;font-family:NordiquePro-Semibold;-inkscape-font-specification:NordiquePro-Semibold"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path6287-1-4-7"
+                 d="m 1123.2644,1839.3654 0,16.1897 0,3.4068 c 5.3476,1.6386 11.502,2.4377 18.5025,2.4377 l 35.2548,0 0,-17.7211 -35.2548,0 c -7.8901,0 -14.0565,-1.421 -18.5025,-4.3131 z"
+                 style="font-size:114.44565582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83da3;fill-opacity:1;stroke:none;font-family:NordiquePro-Semibold;-inkscape-font-specification:NordiquePro-Semibold"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path6289-7-2-9"
+                 d="m 1075.5079,1781.8576 c -12.0526,-10e-5 -21.7106,3.7154 -28.9414,11.1265 -7.2308,7.411 -10.8452,18.4876 -10.8453,33.192 l 0,35.2235 17.7212,0 0,-35.2235 c 0,-9.0404 1.8909,-15.8282 5.6883,-20.3464 3.7975,-4.5186 9.2678,-6.7823 16.3772,-6.7823 7.1094,0 12.5484,2.2638 16.346,6.7823 3.466,4.1238 5.3545,10.1422 5.657,18.0336 0.4343,11.0182 4.1152,19.9112 11.064,26.6911 1.9682,1.9203 4.2061,3.5903 6.6884,5.0007 l 0,-29.379 c 0,-14.7044 -3.6144,-25.7809 -10.8452,-33.192 -7.2308,-7.411 -16.8577,-11.1265 -28.9102,-11.1265 z"
+                 style="font-size:114.44565582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0096db;fill-opacity:1;stroke:none;font-family:NordiquePro-Semibold;-inkscape-font-specification:NordiquePro-Semibold"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         transform="translate(0,452.36218)"
+         id="path32131"
+         d="m 335.90625,251.15625 c 0,0 1.01803,6.09334 0.3125,10.40625 l -0.15625,0.15625 c -0.35842,1.24804 -0.82271,2.19379 -1.6875,3.1875 -6.89319,7.92077 -15.75919,32.7779 -26.65625,38.71875 -8.22634,4.48355 -16.25157,17.26775 -22.625,21.15625 l -10.90625,10.5625 -9.375,19.59375 c -3.94161,-0.80968 -13.7609,-36.79425 -18.28125,-39.40625 L 245.1875,303.8125 c -1.12619,-1.08547 -2.38815,-2.36378 -3.53125,-3.6875 -0.50812,-0.5886 -0.90001,-1.11713 -1.34375,-1.6875 l -7.71875,-7.53125 0.6875,-3.03125 -3.53125,1 c -2.26341,3.77152 -3.0174,8.66448 -3.1875,12.59375 -0.32677,-0.27365 -0.65625,-0.6875 -0.65625,-0.6875 0,0 -1.7205,4.5074 -8.71875,9.40625 -6.99832,4.89883 -39.20321,20.41474 -52.5,25.3125 -13.29667,4.89939 -42.63909,18.05773 -48.9375,27.15625 -6.29847,9.09746 -8.49427,32.99575 -10.59375,42.09375 -2.09952,9.09799 2.75483,22.30298 -2.84375,30 -5.59862,7.69864 1.44406,13.37023 2.84375,18.96875 1.39962,5.59852 0.6875,16.09375 0.6875,16.09375 l 3.53125,31.53125 c 0,0 0.0676,3.47617 -5.53125,8.375 -5.598619,4.89884 -2.1875,46.9375 -2.1875,46.9375 0,0 -18.837078,27.1663 -17.4375,39.0625 0.166652,1.41678 0.115777,2.85282 -0.125,4.28125 l 367.84375,0 c 0.20826,-3.39881 0.3125,-5.625 0.3125,-5.625 L 431.8125,308.34375 355.1875,278 353,272.96875 c -1.43644,-3.44743 -7.0151,-10.34443 -11.40625,-15.4375 -3.13124,-3.62826 -5.6875,-6.375 -5.6875,-6.375 z"
+         style="fill:#0096dc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         style="fill:#a56e2d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 330.36932,684.3507 9.24931,31.3676 c 0,0 7.83841,29.54232 -19.75204,44.16109 -22.40743,11.87252 -62.41171,83.35304 -65.91086,85.45252 -3.4991,2.09947 -16.94983,-83.66882 -20.44893,-87.86782 -3.49915,-4.19894 -0.43247,-16.62101 -0.43247,-16.62101 l 1.78161,-10.81894 z"
+         id="path4072"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsssccc" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         sodipodi:nodetypes="csscsscsc"
+         inkscape:connector-curvature="0"
+         id="path4074"
+         d="m 334.96731,705.11561 c 0,0 -16.79175,17.44261 -41.26353,24.21139 -24.47172,6.76876 -39.57131,7.81012 -42.17466,6.76876 l -2.60341,-1.04131 c 0,0 -13.01687,-2.08273 0,-11.97555 13.0169,-9.89281 72.89452,-36.44731 76.53924,-41.13336 3.64478,-4.68609 4.16546,-4.68609 4.16546,-4.68609 0,0 -0.13032,12.6264 2.47326,17.83313 2.60335,5.20677 2.86364,10.02303 2.86364,10.02303 z"
+         style="fill:#8d5e27;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         sodipodi:nodetypes="cscscsscssccssssc"
+         style="fill:#a56e2d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 184.95688,607.24509 c 0.61501,22.45987 3.49915,31.49226 5.59862,40.58998 l 2.09948,9.09774 c 0,0 13.99651,41.28977 21.69467,49.68776 7.69811,8.39789 22.39446,29.39272 27.9931,30.09256 5.59856,0.69979 26.5934,-2.79931 43.38923,-13.29667 16.79583,-10.49747 37.79066,-20.29505 41.9896,-28.69293 4.199,-8.39795 6.29842,-36.39099 6.29842,-36.39099 0,0 6.29847,4.19889 9.79757,0 3.49916,-4.19905 15.39621,-16.50668 13.2968,-38.49056 -0.88764,-9.29453 -4.199,-13.29667 -7.69816,-12.59689 -3.49911,0.69985 -6.29842,6.29847 -6.29842,6.29847 0,0 8.39794,-24.49393 -1.39963,-54.58648 -9.79758,-30.09257 -38.49051,-49.68776 -58.78549,-56.68603 -20.29499,-6.99825 -36.39104,-5.59858 -43.38925,-3.49911 -6.99831,2.09947 -24.04102,11.01043 -33.51047,27.29332 -14.39052,24.74455 -22.13032,56.80233 -21.07607,81.17983 z"
+         id="path4076"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="translate(0,452.36218)"
+         id="path4080"
+         d="m 412.71875,301.25 -4.59375,98.84375 c 0,0 9.22432,53.90588 21.0625,97.3125 7.22558,26.49378 16.3763,71.45918 22.4375,102.59375 l 105.5625,0 c -2.20129,-5.53194 -3.94197,-11.01785 -4.375,-15.78125 -1.31538,-14.4689 -28.9375,-155.1875 -28.9375,-155.1875 0,0 -5.24717,-18.42322 -6.5625,-25 -1.31533,-6.5768 -25.18155,-53.57168 -33.78125,-64.90625 -15.33294,-20.20909 -70.8125,-37.875 -70.8125,-37.875 z"
+         style="fill:#0096dc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="translate(0,452.36218)"
+         id="path4082"
+         d="m 384.25,537.34375 c -0.36356,0.008 -0.70421,0.005 -1.0625,0.0312 -4.77715,0.34877 -9.28243,2.1248 -14.09375,1.6875 C 364.8107,538.67412 363.29899,568.97623 362.75,600 l 86.78125,0 c 0.0106,-0.29125 0.0625,-0.65397 0.0625,-0.90625 0,-9.8964 -2.875,-24.3125 -2.875,-24.3125 0,0 -29.27637,-6.2633 -34.875,-9.0625 -5.59862,-2.7993 -11.22706,-22.45816 -19.625,-26.65625 -2.75557,-1.37797 -5.42382,-1.77748 -7.96875,-1.71875 z"
+         style="fill:#007ab4;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="translate(0,452.36218)"
+         id="path4084"
+         d="m 394.125,455.46875 c -11.15541,0.53987 -16.93677,18.45085 -12.3125,24 6.57678,7.89212 22.38646,24.98289 17.125,32.875 -5.26139,7.89213 0,5.28109 0,19.75 0,14.46885 -19.75,23.65625 -19.75,23.65625 l 35.875,44.25 10.875,0 22.96875,-14 -1.3125,-13.15625 -10.53125,-89.4375 c 0,0 -5.2668,10.52868 -26.3125,-17.09375 -6.24793,-8.20041 -11.91494,-11.0717 -16.625,-10.84375 z"
+         style="fill:#006da0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="translate(0,452.36218)"
+         id="path4086"
+         d="m 441.1875,453.03125 c 0,0 -3.88797,27.79342 -9.375,38.25 -4.65466,8.87049 -31.53125,-34.21875 -31.53125,-34.21875 0,0 15.80676,35.47164 18.4375,48.625 2.63071,13.15337 -19.85232,7.91493 -15.90625,18.4375 3.84251,10.24679 -4.76305,14.34932 -5.21875,20.625 -2.90754,-2.5063 -5.43073,-4.1996 -7.03125,-4 -5.89077,0.7367 -6.69141,25.73815 -5.21875,30.15625 l 1.53125,4.375 c 0,0 0.17422,12.21202 -0.53125,24.71875 l 19.6875,0 c -0.0426,-3.80209 -1.3048,-5.18859 8,-4.09375 C 424.87432,597.182 429.41898,599.39756 430.5,600 l 0.5,0 c 0.25186,-1.33662 2.45688,-14.15776 -5.21875,-22.53125 l -1.84375,-2.03125 c 3.64284,-6.6443 4.81428,-18.45555 7.875,-22.28125 5.2614,-6.57722 10.5625,-26.34375 10.5625,-26.34375 l 4.03125,32.03125 c -1.79492,-16.86644 -3.34102,-36.70834 -2.6875,-49.125 1.31535,-24.9916 -2.53125,-56.6875 -2.53125,-56.6875 z"
+         style="fill:#006da0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         sodipodi:nodetypes="ssscssscscscccssccccssccsscssccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4090"
+         d="m 251.2765,497.30391 c 13.20239,-0.0692 41.98912,2.14045 61.04202,20.91729 25.40394,25.03576 32.37715,38.61285 33.48166,62.54408 1.10453,23.93129 -2.94568,32.76766 -2.94568,32.76766 0,0 8.00808,-11.32163 12.15004,-2.0252 2.94386,6.60725 2.94477,22.64288 -4.05049,35.52892 -6.9953,12.88611 -11.04481,13.25429 -13.99017,12.88616 -2.94537,-0.36809 -4.41857,4.4178 -4.41857,4.4178 0,0 -0.18941,20.98963 -2.83349,27.70222 -2.7522,6.98684 -26.46329,21.54406 -26.46329,21.54406 0,0 22.39413,-26.88545 14.20181,-99.68592 -6.51965,-57.93612 -32.00886,-89.05303 -32.00886,-89.05303 l -6.25866,-5.15463 -0.73605,1.8409 c 0,0 -4.41852,-3.31302 -8.10026,-5.15387 -3.68175,-1.8409 -6.9952,-7.36393 -9.57238,-8.10026 -2.57723,-0.73638 -2.57696,-3.31371 -2.57696,-3.31371 l 3.68175,0.73675 c 0,0 -8.09989,-6.62712 -12.8861,-7.3635 l -4.78653,-0.73675 c 0,0 2.66936,-0.27579 7.07021,-0.29886 z m 98.86176,111.68878 c -0.22912,-0.006 -0.44911,0.0375 -0.65633,0.12233 -2.20904,0.92047 -4.4185,5.70625 -4.4185,5.70625 0,0 1.84074,-3.86595 4.04978,-2.39324 2.20904,1.47271 4.97089,6.81127 4.97089,12.88611 0,6.07488 -1.84089,15.09572 -1.84089,15.09572 0,0 4.6018,-6.6276 3.86541,-17.30461 -0.66732,-9.67604 -3.75332,-14.06069 -5.97036,-14.11268 z m -11.91652,21.40567 -5.46712,24.21182 c 0,0 3.38411,3.12393 5.98749,2.60325 l 2.60324,-0.52047 7.28952,-9.11179 -5.46713,6.24799 -0.52046,0 -0.78093,-4.6862 c 0,0 -0.521,-4.94682 -2.86375,-5.98818 l -2.34344,-1.04072 z"
+         style="fill:#8d5e27;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         transform="translate(0,452.36218)"
+         id="path4114"
+         d="m 147.25,563.25 c 0,0 1.84539,18.5889 -1.875,29.75 -0.54067,1.622 -0.61839,4.04631 -0.4375,7 l 8.21875,0 C 150.2556,580.41341 147.25,563.25 147.25,563.25 z"
+         style="fill:#007ab4;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         style="fill:#006da0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 366.81814,811.03514 -53.70943,-9.43544 c 0,0 -31.93528,19.59669 -42.82235,30.48371 -10.88702,10.88707 -14.1349,12.08205 -14.1349,12.08205 0,0 17.03809,-37.48514 33.7316,-49.09796 16.69346,-11.61289 23.22565,-16.69346 23.22565,-16.69346 z"
+         id="path4120"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscscc" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         style="fill:#007ab4;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 335.90319,701.98926 c 0,0 16.26984,12.59517 27.11258,48.29425 6.62536,21.81352 7.34606,61.65939 7.34606,61.65939 0,0 -37.73293,-15.53592 -56.06543,-18.42436 -36.95189,16.93625 -58.44793,49.29805 -58.44793,49.29805 0,0 16.18586,-44.65139 49.2615,-86.42601 28.55885,-36.06984 30.79322,-54.40132 30.79322,-54.40132 z"
+         id="path4122"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccsc" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         style="fill:#006da0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 234.28563,735.34853 c -15.35183,19.81585 -32.26835,28.67899 -45.1634,65.69217 0,0 12.57966,-3.77157 29.43726,-6.48224 8.52833,5.63785 15.98078,13.26646 23.93762,20.3392 l 8.46813,22.8383 c 0,0 -9.10826,-37.85644 -13.77642,-73.83072 -2.32805,-17.94022 -2.90319,-28.55671 -2.90319,-28.55671 z"
+         id="path4124"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccsc" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         style="fill:#007ab4;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 233.99626,736.27744 c 0,0 -2.90325,22.4999 -2.90325,35.56435 0,13.06445 -0.72575,21.77409 -0.72575,21.77409 l -10.88707,-4.35482 -24.67734,7.25805 29.03214,-2.90323 22.49985,23.22569 z"
+         id="path4128"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="137.14"
+         inkscape:export-xdpi="137.14"
+         inkscape:export-filename="C:\Dropbox\Artifact\Clients\Axis Point Health\Infographics\010 - One Page Infographic\infographic-progress-2017-01-15.png"
+         style="fill:#006da0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 336.92963,704.04211 c 0,0 -3.07929,30.7932 -9.23799,52.34847 -6.15863,21.55523 -10.26438,28.74032 -10.26438,28.74032 l 45.16339,20.52883 c 0,0 -3.07935,-52.34849 -11.29088,-73.90371 -8.21149,-21.55528 -8.21149,-21.55528 -8.21149,-21.55528 z"
+         id="path4130"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(0.19187794,0,-0.01678708,0.19187794,354.35721,706.02934)"
+         id="g25218">
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:0;stroke:none"
+           id="path10516-3-6"
+           sodipodi:cx="1583.5714"
+           sodipodi:cy="1395.2194"
+           sodipodi:rx="165.71428"
+           sodipodi:ry="165.71428"
+           d="m 1749.2857,1395.2194 c 0,91.5214 -74.1928,165.7142 -165.7143,165.7142 -91.5215,0 -165.7143,-74.1928 -165.7143,-165.7142 0,-91.5215 74.1928,-165.7143 165.7143,-165.7143 91.5215,0 165.7143,74.1928 165.7143,165.7143 z"
+           transform="matrix(0.90517222,0,0,0.90517222,-1444.5165,-379.24708)" />
+        <path
+           transform="matrix(0.90517222,0,0,0.90517222,-1444.5165,-379.24708)"
+           d="m 1749.2857,1395.2194 c 0,91.5214 -74.1928,165.7142 -165.7143,165.7142 -91.5215,0 -165.7143,-74.1928 -165.7143,-165.7142 0,-91.5215 74.1928,-165.7143 165.7143,-165.7143 91.5215,0 165.7143,74.1928 165.7143,165.7143 z"
+           sodipodi:ry="165.71428"
+           sodipodi:rx="165.71428"
+           sodipodi:cy="1395.2194"
+           sodipodi:cx="1583.5714"
+           id="path6252-1-8-5-6-1"
+           style="fill:#ffffff;fill-opacity:0;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m -11.111834,733.66672 c -82.840426,0 -149.999846,67.15955 -149.999846,149.99997 0,82.84042 67.15942,150.00001 149.999846,150.00001 46.22614,0 87.55197,-20.9214 115.066894,-53.79988 -25.292044,26.36068 -60.856914,42.76828 -100.2734239,42.76828 -76.7522221,0 -138.9965661,-62.21619 -138.9965661,-138.96841 0,-76.75222 62.244344,-138.96837 138.9965661,-138.96837 39.3877099,0 74.9283399,16.38492 100.2169039,42.71159 C 76.383496,754.5694 35.083346,733.66672 -11.111834,733.66672 z"
+           id="path6252-2-2-1-4"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path6258-4-7-8-2"
+           d="m 3.6463561,752.29384 c 72.5531799,0 131.3727339,58.81955 131.3727339,131.37285 0,72.5533 -58.819554,131.37291 -131.3727339,131.37291 -40.4857101,0 -76.6797421,-18.32345 -100.7778961,-47.11901 22.151155,23.08716 53.299666,37.45731 87.8215061,37.45731 67.2209799,0 121.7358839,-54.49011 121.7358839,-121.71121 0,-67.22111 -54.514904,-121.71117 -121.7358839,-121.71117 -34.4965201,0 -65.6236711,14.35019 -87.7719461,37.40759 24.098274,-28.76243 60.269626,-47.06927 100.7283361,-47.06927 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           style="font-size:114.44565582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:NordiquePro-Semibold;-inkscape-font-specification:NordiquePro-Semibold"
+           d="m 33.387276,833.66693 c -15.70434,0 -28.0827799,3.30302 -37.1707699,9.86254 4.82648,5.80257 8.33531,12.69588 10.60894,20.47137 0.32046,-0.3016 0.64142,-0.61728 0.98237,-0.9038 5.6811299,-4.77469 14.2124299,-7.15116 25.5794599,-7.15116 l 44.32206,0 0,-22.27895 -44.32206,0 z"
+           id="path6285-5-1-2-3" />
+        <path
+           inkscape:connector-curvature="0"
+           style="font-size:114.44565582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:NordiquePro-Semibold;-inkscape-font-specification:NordiquePro-Semibold"
+           d="m 10.126076,905.96528 0,20.35357 0,4.283 c 6.72296,2.06004 14.46023,3.06466 23.2612,3.06466 l 44.32206,0 0,-22.27883 -44.32206,0 c -9.91937,0 -17.67172,-1.78647 -23.2612,-5.4224 z"
+           id="path6287-1-4-7-2" />
+        <path
+           inkscape:connector-curvature="0"
+           style="font-size:114.44565582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:NordiquePro-Semibold;-inkscape-font-specification:NordiquePro-Semibold"
+           d="m -49.913024,833.66693 c -15.152435,-1.3e-4 -27.294397,4.67097 -36.384902,13.98815 -9.090506,9.31705 -13.634501,23.24246 -13.634627,41.72872 l 0,44.28271 22.278954,0 0,-44.28271 c 0,-11.36552 2.377225,-19.89909 7.151287,-25.57934 4.774187,-5.68075 11.651408,-8.52665 20.589288,-8.52665 8.93789,0 15.77575,2.84603 20.55007,8.52665 4.35742,5.18441 6.73163,12.7507 7.11193,22.6717 0.546,13.852 5.1736,25.03221 13.9095801,33.55585 2.4744,2.41418 5.28787,4.51369 8.40860005,6.28684 l 0,-36.93505 c 0,-18.48626 -4.54399005,-32.41155 -13.63450015,-41.72872 -9.0905,-9.31706 -21.19337,-13.98815 -36.34568,-13.98815 z"
+           id="path6289-7-2-9-2" />
+      </g>
+    </g>
+    <rect
+       style="fill:url(#linearGradient25912);fill-opacity:1;stroke:none"
+       id="rect25904"
+       width="1400"
+       height="3"
+       x="0"
+       y="1049.3622" />
+  </g>
+</svg>

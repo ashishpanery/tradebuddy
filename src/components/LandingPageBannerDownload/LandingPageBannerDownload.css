@@ -1,0 +1,15 @@
+.landingPageBannerLeftContainerImage{
+    display: flex;
+    margin-bottom:3em;
+}
+.landingPageBannerLeftContainerImage>img{
+    width: 200px !important;
+    margin-right: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+@media screen and (max-width:550px) {
+    .landingPageBannerLeftContainerImage>img{
+        width: 130px !important;
+    }
+}

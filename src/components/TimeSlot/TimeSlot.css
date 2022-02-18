@@ -1,0 +1,29 @@
+.timeSlotInactive{
+    background: #FFFFFF;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+border-radius: 12px;
+padding: 5px 10px;
+pointer-events: none;
+
+}
+.timeSlotInactive>p{
+    color: #151515;
+    font-size: 16px;
+    text-align: center;
+cursor: not-allowed;
+
+    
+
+}
+.timeSlotActive{
+    background: #2EAFB4;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+border-radius: 12px;
+padding: 5px 10px;
+cursor: pointer;
+}
+.timeSlotActive>p{
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: center;
+}

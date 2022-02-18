@@ -1,0 +1,38 @@
+
+.form-label::after{
+content:' *';
+color:red;
+}
+.form-label{
+    font-weight: 600;
+}
+.form-button{
+    background: #2EAFB4;
+    border-radius: 25px;
+}
+.form-control::placeholder{
+    opacity: .5;
+}
+.form-validation-error{
+    color:red;
+}
+.mentor-svg{
+    width: 100%;
+    max-width: 50em;
+}
+.mentor-form{
+    min-width: 20em;
+}
+.pointer-event-none{
+    pointer-events: none;
+}
+.iti { width: 100%; }
+.iti__flag {background-image: url("https://raw.githubusercontent.com/jackocnr/intl-tel-input/master/build/img/flags.png");}
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .iti__flag {background-image: url("https://raw.githubusercontent.com/jackocnr/intl-tel-input/master/build/img/flags%402x.png");}
+}
+@media screen and (max-width:768px) {
+    .mentor-svg{
+        display: none;
+    }
+}

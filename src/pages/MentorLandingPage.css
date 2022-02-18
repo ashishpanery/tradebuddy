@@ -1,0 +1,108 @@
+.mentorLandingPage{
+    width: 100%;
+    margin: 0 auto;
+}
+.mentorLandingPageTop{
+    padding: 80px 60px;
+    position: relative;
+}
+.mentorLandingPageTop>img{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+.mentorLandingPageCardRows{
+    margin: 100px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mentorLandingPageCardRows>*{
+    margin-right: 25px;
+}
+.canIBeMentor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    background: url('../images/Group\ 465-min.png') no-repeat center center/cover;
+}
+.canIBeMentor>h1{
+    margin: 50px 0;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+.canIBeMentorRow{
+    display: flex;
+    align-items: center;
+}
+.canIBeMentorRow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.canIBeMentorRow>*{
+    margin-right: 20px;
+}
+.Title{
+    margin-top: 30px;
+    padding: 50px 0 10px 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Title>img{
+    position: absolute;
+    width: 150px;
+    top: 0;
+    z-index: -1;
+}
+.Title>h1{
+    font-style: normal;
+font-weight: 800;
+font-size: 56px;
+color: #007CC2;
+}
+.Title>h1>span{
+    color:#EEB211 ;
+}
+.whatIsInItForYouCardRows{
+    /* border: 1px solid black; */
+    margin: 50px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.existingMentorSay{
+    margin: 100px 0;
+}
+
+.becomeMentorCardRows{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+    width: 100%;
+}
+.becomeMentorCardRows>*{
+    margin: 0 40px;
+}
+.footerImage{
+    width: 100%;
+    margin-top: 150px;
+}
+.footerImage>img{
+    width: 100%;
+    object-fit: cover;
+}
+.FAQ-w .accordion-button::after{
+    filter:invert(100%) !important;
+  }

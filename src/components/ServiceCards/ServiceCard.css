@@ -1,0 +1,26 @@
+.serviceCards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all .2s;
+
+}
+.serviceCards:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all .2s;
+}
+.serviceCards>img{
+ width: 200px;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+@media screen and (max-width:500px) {
+.serviceCards>img{
+    max-width: 150px;
+}
+}
+.serviceCards>p{
+    font-weight: 600;
+    font-size:1.30rem;
+}

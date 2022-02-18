@@ -1,0 +1,359 @@
+.bootcampCard{
+    margin-bottom:2em;
+}
+
+/*  */
+/* for slick carousel with single row  */
+.customSlick .slick-track
+{
+    display: flex !important;
+}
+
+.customSlick .slick-slide
+{
+    height: inherit !important;
+}
+.customSlick .slick-slide > div{
+     height: 100%; 
+     padding-bottom: 2em;
+    }
+
+
+
+@media screen and (min-width:1150px){
+/* for slick carousel with double rows  */
+.customSlickHalfHeight .slick-track
+{
+    display: flex !important;
+}
+
+.customSlickHalfHeight .slick-slide
+{
+    height: inherit !important;
+}
+.customSlickHalfHeight .slick-slide > div{
+     height: 50%; 
+     padding-bottom: 2em;
+    }
+/*  */
+}
+
+.flexible{
+    flex-grow:1 !important;
+}
+
+.landingPage{
+    width: 100%;
+    margin: 0 auto;
+}
+.landingPageTopPart{
+    padding: 40px 60px;  
+    position: relative;
+}
+
+.landingPageTopPart>img{
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+.ourServices{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 80px 0;
+    position: relative;
+    
+}
+.ourServicesHeading{
+    position: relative;
+    margin-bottom: 80px;
+    margin:auto auto;
+}
+
+.ourServicesHeading>img{
+    position: absolute;
+    width: 200px;
+    z-index: 0;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    top: -100%;  
+}
+
+@media screen and (max-width:991px) {
+    .ourServicesHeading>img{
+        display: none !important;
+    }
+}
+
+.ourServicesHeading>h1{
+    font-size: 56px;
+    color: #2EAFB4;
+    position: relative;
+    font-weight: 800;
+    z-index:2;
+}
+.ourServicesHeading>h1>span{
+    color: #EEB211;
+}
+.grabbing{
+    cursor: grabbing;
+}
+.serviceCardsRow{
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 80px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+@media screen and (max-width:500px) {
+.ourServicesHeading h1{
+    padding:auto 1em !important;
+    margin:auto .5em !important;
+}
+/* .ourServicesHeading>h1, .ourServicesHeading>h1>span{
+    font-size: 3rem;
+} */
+}
+.serviceCardsRow>*{
+    margin-right: 20px;
+}
+.upComingEvents{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    background: #E7FDFC;
+}
+.upComingEventsCardRows{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+}
+@media screen and (min-width:300px) and (max-width:500px) {
+    
+.landingPageCards{
+    width: 100% !important;
+    margin-inline-end:3.25em;;
+}
+}
+@media screen and (max-width:991px) {
+.upComingEventsCardRows{
+    grid-template-columns: 1fr;
+}
+}
+.upComingEventsHeading{
+    font-size: 48px;
+    text-transform: uppercase;
+    position: relative;
+    z-index:2;
+    margin-bottom: 80px;
+}
+.upComingEventsHeading>img{
+    position: absolute;
+    width: 200px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    top: -100%;  
+}
+.upComingEventsHeading>h1{
+    font-size: 56px;
+    color: #2EAFB4;
+    font-weight: 800;
+    /* text-transform: uppercase; */
+    position: relative;
+    z-index: 1;
+}
+.upComingEventsHeading>h1>span{
+    color: #EEB211;
+}
+.upComingEvents>a{
+    color: #EEB211;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 50px 0;
+}
+.ourClients{
+    width: 100%;
+    margin: 80px 0;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    justify-content: space-around;
+}
+.ourClientCardsRow{
+    margin-top: 50px;
+    /* width: 75%; */
+}
+.existingMentorCardRows{
+    display: grid;
+    padding: 50px 50px;
+    grid-template-columns: 1fr  1fr;
+    gap: 20px;
+}
+@media screen and (max-width:1150px){
+    .existingMentorCardRows{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+.faqSection{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    /* background: #E7FDFC; */
+    margin-block:7em;
+}
+.faqSection>h1{
+    color: #2EAFB4;
+    font-weight: 800;
+    font-size: 48px;
+}
+.mentorFaq{
+    color: #007CC2 !important;
+}
+.faqSection>h1>span{
+    color: #EEB211;
+}
+.faqBox{
+    width: 1366px;
+}
+.faqBoxContainer{
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    width: 80%;
+    padding: 20px;
+    margin: 30px auto;
+    justify-content: space-between;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.32);
+    border-radius: 12px;
+}
+.faqBoxContainer>h1{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+}
+.faqBoxContainer>img{
+    width: 40px;
+    object-fit: contain;
+    cursor: pointer;
+}
+.showMore_events:hover{
+color:var(--mentor_theme) !important;
+}
+/* accordion faq style */
+.FAQ-w{
+    width:75%
+  }
+.accordion-faq{
+    background-color: #fff !important;
+    color:#000 !important;
+    min-height:75px !important;
+}
+.accordion-faq.collapsed{
+    background-color: #fff !important;
+    color:black !important;
+    min-height:75px !important;
+
+}
+.accordion-faq>.text-primary{
+    color:#000 !important;
+    height:75px !important;
+
+} 
+.accordion-faq.collapsed>.text-primary{
+    color:black !important;
+    height:75px !important;
+
+}
+.left_arrow_btn, .right_arrow_btn{
+    padding:2em 0;
+    top:50%;
+    background: transparent;
+    border:none;
+    opacity: .9;
+}
+.left_arrow_btn{
+    left:0% !important;
+    border-radius: 20px 10px 10px 20px !important;
+}
+.right_arrow_btn{
+    border-radius: 10px 20px 20px 10px !important;
+    right:0% !important;
+
+}
+#upcomingEventCarousel.carousel.slide{
+    width: 100% !important;
+}
+.carousel-item{
+    z-index: 0;
+}
+.bootcamp_card_btn{
+    width:100% !important;
+    min-width:10em; 
+    max-width: max-content;
+  font-family: "DM Sans",sans-serif !important;
+  text-transform: uppercase !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  padding: 15px 24px !important;
+  display: inline-block !important;
+  border-radius: 5px !important;
+  border:1px solid transparent !important;
+}
+button.bootcamp_card_btn:hover{
+  opacity: .75;
+  }
+
+@media screen and (min-width:500px) and (max-width:991px) {
+    .left_arrow_btn{
+        left:-7px !important;
+    }
+    .right_arrow_btn{
+        right:-7px !important;
+    
+    } 
+}
+.extraPadding{
+    padding-Top:6em;
+    width: auto !important;
+}
+@media screen and (max-width:500px) {
+.left_arrow_btn, .right_arrow_btn{
+    padding:2em .25em;
+
+}
+.left_arrow_btn{
+    left:0% !important;
+}
+.right_arrow_btn{
+    right:1% !important;
+
+}
+.extraPadding{
+    width: 100% !important;
+    
+} 
+.extraPadding>div{
+    margin-inline:auto !important;
+}
+
+}

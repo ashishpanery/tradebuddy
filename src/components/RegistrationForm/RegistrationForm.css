@@ -1,0 +1,94 @@
+.registrationFormOuter{
+    position: fixed;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 100;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display:grid;
+    place-items: center;
+}
+.registrationForm{
+    width: 50%;
+   background-color: #FFFFFF;
+   padding: 20px;
+   border-radius: 8px;
+   position: relative;
+}
+.registrationForm>h1{
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 39px;
+    color: #151515;
+    margin-bottom: 10px;
+}
+.registrationFormInput{
+    margin-bottom: 10px;
+}
+.registrationFormInput>p{
+    margin-bottom: 5px;
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #4F4F4F;
+}
+.registrationFormInput>input{
+    height: 44px;
+    width: 100%;
+    outline: none;
+    padding: 0 10px;
+    background: #E7FDFD;
+border-radius: 8px;
+border: none;
+}
+.registrationFormButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.registrationFormButton>button{
+    margin-left: auto;
+    height: 44px;
+    width: 100%;
+    background: #2EAFB4;
+border-radius: 8px;
+font-weight: 500;
+font-size: 18px;
+color: #FFFFFF;
+cursor: pointer;
+outline: none;
+border:none!important;
+
+}
+.registraionButtonClose{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.registraionButtonClose>svg{
+    color: #2EAFB4;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.registrationSuccess>img,.registrationFailure>img{
+    width: 100%;
+}
+.registrationFailure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.registrationFailure>button{
+    margin: 0 auto;
+    font-size: 32px;
+    color: #2EAFB4;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    position: absolute;
+    top: 78%;
+}

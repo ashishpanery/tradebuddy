@@ -1,0 +1,56 @@
+/* .accordion_toggler{
+    background:#4B49AC;
+    color:#fff;
+    padding:1.5em .25em;
+    display: flex;
+} */
+.toggle_arrow{
+    transform: rotate(0.5turn)
+}
+/* .accordion-collapse{
+    background-color: red !important;
+} */
+.accordion-button-lecture-accordion{
+    background-color: var(--mentor_theme) !important;
+    color:#fff !important;
+}
+.accordion-button-lecture-accordion.collapsed{
+    background-color: var(--mentor_theme);
+    color:white !important;
+}
+.accordion-button-lecture-accordion>.text-primary{
+    color:white !important;
+} 
+.accordion-button-lecture-accordion.collapsed>.text-primary{
+    color:white !important;
+}
+.delete-btn{
+    transition:.2s;
+    background: #e8000d !important;
+    border:none !important;
+    position: absolute !important;
+    z-index: 10 !important;
+}
+.delete-btn:hover{
+    background: red !important;
+    color:white !important;
+    transition:.2s;
+}
+.locked_and_delete{
+    position:absolute;
+    right:5%;
+    top:50%;
+    transform: translate(-5%,-50%);
+    bottom:1em !important;
+    z-index:10 !important;
+}
+.locked_and_delete img{
+    filter: invert(30%) sepia(100%) saturate(7398%) hue-rotate(358deg) brightness(106%) contrast(122%);
+}
+@media screen and (max-width:991px) {
+.lock-icon{
+    right:40%;
+    transform: translateX(-40%);
+
+}
+}

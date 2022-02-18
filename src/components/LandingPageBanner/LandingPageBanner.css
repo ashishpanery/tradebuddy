@@ -1,0 +1,158 @@
+.landingPageBanner{
+    margin-left:70px !important;
+    margin: 40px 0 80px 0;
+    display: flex;
+    z-index:2;
+
+
+} 
+.landingPageBannerLeft{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* .landingPageBannerLeftContainer{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex:1.5;
+    border:1px solid red;
+} */
+.landingPageBannerLeftContainerText{
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+.landingPageBannerDownload{
+    margin-top:3em;
+    margin-bottom:1em;
+}
+.landingPageBannerLeftContainerText>h2,.landingPageBannerDownload>h2{
+    color:#2EAFB4;
+    font-size: 36px;
+    word-spacing: 10px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.landingPageBannerLeftContainerText>h1,.landingPageBannerDownload>h1{
+    font-size: 45px;
+    color:#2EAFB4;
+    text-transform: capitalize;
+    margin-top: -10px;
+}
+.landingPageBannerLeftContainerText>h1>span,.landingPageBannerDownload>h1>span{
+    color: #FDC11F;
+}
+.landingPageBannerLeftContainerPara{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    text-align: left
+}
+
+.landingPageBannerLeftContainerPara>p{
+   /* color: black !important;
+    /font-size: 17px;*/
+    margin-bottom: 30px;
+    /* font-weight: 300 !important; */
+    line-height: 1.3em;
+
+      font-weight: 350;
+        font-size: 22px;
+        color: #000000b8;
+}
+.landingPageBannerLeftContainerPara>a{
+    align-self: flex-start;
+    background-color: #FDC11F;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.landingPageBannerRight{
+    /* border: 1px solid red; */
+    /* width: 60%; */
+    width: 100%;
+    flex:2; 
+}
+.landingPageBannerRight>img{
+    width: 600px;
+}
+
+
+@media screen and (max-width:991px) {
+    .landingPageBannerLeftContainerPara{
+        width: 100%;
+    }
+    .landingPageBanner{
+        flex-direction: column-reverse;
+    }
+    .landingPageBannerRight{
+        display: flex;
+        justify-content: center;
+
+    }
+    .landingPageBannerRight>img{
+        width: 100% !important; 
+        min-width: 15em;
+        max-width: 35em;
+    }
+    .landingPageBannerLeft{
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    .landingPageBannerLeftContainerText>h1{
+        font-size: 3rem;
+        
+    }
+    .landingPageBannerLeftContainerText>h2{
+    font-size: 2rem;
+    margin-bottom:.5em;
+    
+}
+.landingPageBannerLeftContainerDownload{
+    margin-inline:auto;
+}
+}
+@media screen and (max-width:550px) {
+    .landingPageBannerRight>img{
+        margin-bottom:2em;
+        
+    }
+    /* .mentorLandingPageBannerRightButtons{
+        margin-left: 3em !important;
+    }    */
+    
+}
+@media screen and (max-width:360px) {
+    .mentorLandingPageBannerLeftHeading h1, 
+    .ourServicesHeading h1, 
+    .upComingEventsHeading h1,
+    .Title h1
+    {
+        font-size: 2.5rem !important;
+    }
+}
+button.btn_get_started{
+    background:var(--theme_yellow) !important;
+    color: #fff !important; 
+    border:1px solid var(--theme_yellow) !important;
+}
+button.btn_get_started:hover{
+    background:var(--mentor_theme) !important;
+    color: #fff !important; 
+    border:1px solid white !important;
+}
+
+.mentorLandingPageBannerRightButtons>img{
+    width: 100% !important;
+    max-width: 10em !important;
+    min-width: 7em !important;
+}

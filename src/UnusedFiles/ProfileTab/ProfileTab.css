@@ -1,0 +1,69 @@
+.menteeTimeSlotProfileTab{
+    width: 100%;
+    margin: 0 0 1.5 0;
+    padding: 40px 80px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    
+}
+.menteeTimeSlotProfileImage>img{
+    width: 200px !important;
+height: 200px !important;
+border-radius: 50%;
+border: 5px solid #fff;
+box-shadow: 0 4px 4px rgba(0,0,0,.4);
+position:absolute;
+top:-10em;
+left:8%;
+}
+
+.ViewProfile{
+    margin-left: 15px;
+}
+.ViewProfile>button{
+    background: #2EAFB4;
+    box-shadow: 0px 0px 4px rgb(0 0 0 / 20%);
+    border-radius: 8px;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    /* padding: 10px 20px; */
+    width: 152px;
+    height: 30px;
+}
+.menteeProfileTabDetailsInfoName{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menteeProfileTabDetailsInfoName>*{
+    margin-right: 5px;
+}
+.menteeProfileTabDetailsInfoName>h2{
+    font-size: 2rem;
+    color:black;
+    font-weight: 100;
+}
+.theme_font_color{
+    color:var(--mentor_theme) ;
+}
+.menteeProfileTabDetailsInfoName>div>img{
+    width: 25px;
+    height: 25px;
+}
+
+@media screen and (max-width:991px) {
+    .menteeTimeSlotProfileImage>img{
+        left:50%;
+        transform:translateX(-50%);
+        width: 150px !important;
+        height: 150px !important;
+    }
+    .menteeProfileTabDetailsInfoName{
+        flex-direction: column;
+    }
+.menteeTimeSlotProfileTab{
+    padding-inline:2.5em;
+    }
+}

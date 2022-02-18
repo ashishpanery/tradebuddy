@@ -1,0 +1,27 @@
+.mentorAboutMe{
+    width: 100%;
+    margin: 20px 0;
+    padding: 40px 80px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    position: relative;
+}
+@media screen and (max-width:991px) {
+    .mentorAboutMe{
+        padding: 40px;
+    }
+    
+}
+.mentorAboutMe>h3{
+    color: #151515;
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.mentorAboutMe>p{
+    color: #000000;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 20px 0;
+}

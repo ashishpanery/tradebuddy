@@ -1,0 +1,28 @@
+.events{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 80px auto;
+}
+.events-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin: 10px auto;
+}
+@media screen and (max-width:1440px){
+    .events-container{
+        grid-template-columns: 1fr;
+    }
+    
+}
+
+.events-footer{
+    position: sticky;
+    bottom: 0;
+}
+
+#eventPageContainer{ 
+margin-left:15%;
+margin-right:15%;
+}

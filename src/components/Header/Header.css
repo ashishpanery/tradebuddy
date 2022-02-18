@@ -1,0 +1,10 @@
+.header_container{
+    width:100% !important;
+    position: fixed;
+    top: 0 !important;
+    right: 0 !important;
+    left:0 !important;
+    background: #fff !important;
+    z-index:2000;
+    box-shadow: 0 4px 12px rgba(0,0,0,.1);
+}
